@@ -1,4 +1,3 @@
-# Week-5
 <html lang-ën">
 <head>
     <meta charset-"UTF_8">
@@ -45,9 +44,9 @@
         </tr>
         <tr>
             <td>6.<td>
-                <td>Kevin Rajbhandari</td>
-                <td>Group7</td>
-                <td>Male</td>
+            <td>Kevin Rajbhandari</td>
+            <td>Group7</td>
+            <td>Male</td>
             </tr>
         <tr>
             <td>7.</td>
